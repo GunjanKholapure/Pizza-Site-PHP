@@ -1,0 +1,66 @@
+body
+{
+    background-color: orange;
+}
+
+.boxo
+{
+	width:220px;
+	height:320px;
+	margin:20px;
+	border:1px solid black;
+	float:left;
+    background-color: red;
+}
+
+.button {
+    margin-top:30px;
+    margin-left : 540px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor:pointer;
+}
+
+#cont
+{
+    height: 1100px;
+    width : 1380px;
+}
+
+td{
+padding :20px;
+}
+
+#head
+{
+    height: 250px;
+    width: 1330px;
+}
+
+#left{
+float:left;
+width:900px;
+height : 200px;
+background-color: black;
+}
+
+#right
+{
+float:left;
+width:420px;
+height:200px;
+background-color: silver;
+text-align: center;
+}
+#left h1
+{
+    text-align: center;
+    color: green;
+    font-size: 80px;
+}
